@@ -1,3 +1,6 @@
+개인코드:00928
+<br>깃헙: https://github.com/Heo-YJ/Software-HW.git
+
 # Requirement list
 
 No.|Reuqirement|Use case(s)
